@@ -6,6 +6,11 @@
 header section ul li {
     display: inline-block;
 }
+
+body {
+    margin: 0;
+    pafing: 0;
+}
 /* Barra del menu del spa*/
 #menu-spa{
     padding: 25.2855px 70px;
